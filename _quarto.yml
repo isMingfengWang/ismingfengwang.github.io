@@ -8,7 +8,7 @@ website:
   title: "Mingfeng Wang"
   description: "Porous Media, Computational Fluid Dynamic, Continuum Mechanics, Fluid Structure Interaction"
   navbar:
-    background: "#008000ff"
+    background: "#006400ff"
     foreground: "#ffffffff"
     left:
       - text: Publications
