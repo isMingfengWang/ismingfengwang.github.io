@@ -5,7 +5,7 @@ about:
   image: assets/pictures/mingfeng.jpg
   links:
   - icon: envelope
-    text: Reach me out by
+    text: Reach me out by Email
     href: "mailto:mingfeng.wang@outlook.com"
 ---
 
