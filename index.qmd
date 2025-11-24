@@ -36,6 +36,11 @@ My research interests also include applying **machine learning** to extract insi
 - PhD student (2021.11 - Present) - University of Stuttgart
 - Master of Science (2017.09 - 2020.07) - Geological Engineering - China University of Geosciences (Beijing)
 
+### Skills
+- **Programming**: C++, Python, Matlab
+- **Simulation Tools**: OpenFOAM, Calculix, preCICE
+- **Supporting Tools**: Yade, Gmsh, Salome, Aviza, ImageJ
+
 ### Further links
 <table width="60%" align="center">
     <tr>
