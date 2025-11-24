@@ -3,7 +3,9 @@ title: "Mingfeng Wang"
 about:
   template: trestles
   image: assets/pictures/mingfeng.jpg
-  
+  links:
+  - icon: envelope
+    href: "mailto:mingfeng.wang@outlook.com"
 ---
 
 I am a PhD student affiliated with Institute of Applied Mechanics (MIB) University of Stuttgart and my supervisor is Prof. Holger Steeb.
