@@ -24,6 +24,8 @@ website:
         href: https://github.com/isMingfengWang/
       # - icon: twitter
       #   href: https://twitter.com/valegiunca/
+      - icon: linkedin
+        href: https://www.linkedin.com/feed/
       - icon: envelope
         href: "mailto:mingfeng.wang@outlook.com"
 
