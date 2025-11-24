@@ -17,11 +17,11 @@ website:
       #   href: teaching.qmd
       # - text: Outreach
       #   href: outreach.qmd
-      # - text: CV
-      #   href: curriculum.qmd
+      - text: CV
+        href: curriculum.qmd
     right:
-      # - icon: github
-      #   href: https://github.com/valegiunchiglia/
+      - icon: github
+        href: https://github.com/isMingfengWang/
       # - icon: twitter
       #   href: https://twitter.com/valegiunca/
       - icon: envelope
