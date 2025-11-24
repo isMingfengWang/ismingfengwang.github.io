@@ -16,8 +16,13 @@ about:
 
 ---
 
-I am a PhD student affiliated with University of Stuttgart and my supervisor is Prof. Holger Steeb. 
+I am a PhD student affiliated with Institute of Applied Mechanics (MIB) University of Stuttgart and my supervisor is Prof. Holger Steeb.
 
+My research focus on **numerical simulations** of fluid flow in **porous media**, including **single-phase flow**, **multiphase flow**, and reactive flow. These studies have important applications in CO2 geological sequestration, underground wastwater treatment, and oil & gas extraction.
+
+I primarily use **OpenFOAM** for fluid flow simulations and am capable of developing custom solvers or modules as needed. In addition, I conduct **fluid-structure interaction (FSI)** simulations using the toolchain OpenFOAM + preCICE + Calculix.
+
+My research interests also include applying **machine learning** to extract insights from fluid flow data. For example, I have developed machine learning-based methods to derive explicit predictive formulas for the permeability of porous media.
 
 ### Key topics
 
