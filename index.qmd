@@ -1,8 +1,8 @@
 ---
-title: "Valentina Giunchiglia"
+title: "Mingfeng Wang"
 about:
   template: trestles
-  image: assets/pictures/profile-picture.jpg
+  image: assets/pictures/mingfeng.jpg
   links:
     - icon: twitter
       text: Twitter
@@ -15,7 +15,7 @@ about:
       href: https://www.linkedin.com/in/valentina-giunchiglia-b59747150/
     - icon: envelope
       text: Reach me per email
-      href: "mailto:v.giunchiglia20@imperial.ac.uk"
+      href: "mailto:mingfeng.wang@outlook.com"
 
 ---
 
@@ -64,6 +64,5 @@ You can check out a detailed list in my [Teaching page](/teaching.qmd).
         </td>
     </tr>
 </table>
-
 
 
