@@ -13,17 +13,17 @@ website:
     left:
       - text: Publications
         href: publications.qmd
-      - text: Teaching
-        href: teaching.qmd
-      - text: Outreach
-        href: outreach.qmd
-      - text: CV
-        href: curriculum.qmd
+      # - text: Teaching
+      #   href: teaching.qmd
+      # - text: Outreach
+      #   href: outreach.qmd
+      # - text: CV
+      #   href: curriculum.qmd
     right:
-      - icon: github
-        href: https://github.com/valegiunchiglia/
-      - icon: twitter
-        href: https://twitter.com/valegiunca/
+      # - icon: github
+      #   href: https://github.com/valegiunchiglia/
+      # - icon: twitter
+      #   href: https://twitter.com/valegiunca/
       - icon: envelope
         href: "mailto:mingfeng.wang@outlook.com"
 
