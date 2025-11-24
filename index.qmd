@@ -26,8 +26,8 @@ My research interests also include applying **machine learning** to extract insi
 
 ### Education
 
-- PhD student (2021.11 - Present) - University of Stuttgart
-- Master of Science (2017.09 - 2020.07) - Geological Engineering - China University of Geosciences (Beijing)
+- PhD student (12.2021 - Present) - University of Stuttgart
+- Master of Science (09.2017 - 07.2020) - Geological Engineering - China University of Geosciences (Beijing)
 
 ### Skills
 - **Programming**: C++, Python, Matlab
