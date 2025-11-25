@@ -32,7 +32,7 @@ My research interests also include applying **machine learning** to extract insi
 ### Skills
 - **Programming**: C++, Python, Matlab
 - **Simulation Tools**: OpenFOAM, Calculix, preCICE
-- **Supporting Tools**: Yade, Gmsh, Salome, Aviza, ImageJ
+- **Supporting Tools**: Yade, Gmsh, Salome, Avizo, ImageJ
 
 ### Further links
 <table width="60%" align="center">
