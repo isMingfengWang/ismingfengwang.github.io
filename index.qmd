@@ -19,15 +19,17 @@ My research interests also include applying **machine learning** to extract insi
 
 ### Key topics
 
-- Porous Media
-- Computational Fluid Mechanics (CFD)
+- Fluids Flow in Porous Media
 - Continuum Mechanics
+- Computational Fluid Mechanics (CFD)
 - Fluid Structure Interaction (FSI)
+- Machine Learning
 
 ### Education
 
 - PhD student (12.2021 - Present) - University of Stuttgart
 - Master of Science (09.2017 - 07.2020) - Geological Engineering - China University of Geosciences (Beijing)
+- Bachelor of Science (09.2013 - 07.2017) - Mining Engineering - Henan Polytechnic University
 
 ### Skills
 - **Programming**: C++, Python, Matlab
